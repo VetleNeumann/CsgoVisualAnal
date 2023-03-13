@@ -1,4 +1,4 @@
 [submodule "CSGO"]
-	path = CSGO
+	path = Assets/CSGO
 	url = https://github.com/henrik9864/CSGO
 	branch = dev-demo-tracker
